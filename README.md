@@ -1,6 +1,9 @@
 # html-ABC-college
 
 ## OUTPUT:
+### TASK1:
+![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/cef7931e-601a-4057-94c5-e477857e613e)
+
 ### HOME PAGE:
 ![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/276b439e-24dd-487d-9808-41175e8822e1)
 ### ACADEMICS:
