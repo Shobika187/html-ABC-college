@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: black;
+   
+}
+ul{
+    list-style: none;
+    display: flex;
+  
+}
+li{
+    padding: 20px;
+    
+}
+.header1right{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.na:hover:hover{
+    color: bisque;
+}
+.logo{
+    height: 70px;
+    width: 400px;
+    margin-left: 50px;
+    
+    padding: 0px;
+}
+body{
+    background-color: powderblue;
+}
