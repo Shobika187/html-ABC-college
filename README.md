@@ -9,11 +9,13 @@
 
 
 ### ACADEMICS:
-![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/9884c870-6c35-4dde-8232-5942f24d9b0c)
+![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/b3019ca8-4703-416b-83e1-8c681688a403)
+
 ### ADMISSION:
-![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/f55812cb-9252-44a3-992e-4e8325c262e1)
+![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/57974d7c-772e-48fd-b99c-6c8d38591dc7)
+
 ### GALLERY:
-![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/a89a53b0-21ef-4131-a584-ef84592ec960)
+![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/d5dd29ec-ff02-4284-8107-0335991ef629)
 
 
 
