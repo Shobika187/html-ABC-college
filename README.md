@@ -5,7 +5,9 @@
 ![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/cef7931e-601a-4057-94c5-e477857e613e)
 
 ### HOME PAGE:
-![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/276b439e-24dd-487d-9808-41175e8822e1)
+![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/a70dfa61-341e-4075-b3dc-12257d3221ca)
+
+
 ### ACADEMICS:
 ![image](https://github.com/Shobika187/html-ABC-college/assets/94508142/9884c870-6c35-4dde-8232-5942f24d9b0c)
 ### ADMISSION:
